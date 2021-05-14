@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com/jeonbg/amazon-chime-sdk-component-library-react"
+    "url": "https://github.com/jeonbg/amazon-chime-sdk-component-library-react"
   },
   "types": "lib/index.d.ts",
   "scripts": {
